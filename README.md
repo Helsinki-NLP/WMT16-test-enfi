@@ -24,6 +24,10 @@ Test data for the news translation task at [WMT 2016](http://www.statmt.org/wmt1
 
 All 1,500 English sentences have been translated twice by independent translators. They can be used for multi-reference evaluation or tuning.
 
+## License
+
+The package is distribute with the Creative Commons Attribution 4.0 license.
+
 ## Acknowledgements
 
 The translation costs were covered by [BAULT](https://kitwiki.csc.fi/twiki/bin/view/BAULT/WebHome), a multidisiplinary research community on Building And Using Language Technology at the University of Helsinki. We would like to thank Anna Missilä and Lingsoft for providing the translations and Maarit Koponen for selecting the Finnish documents to be translated.
