@@ -1,0 +1,8 @@
+
+
+
+ep+wiki+cc-efmaral.newstest2016.en.fi.sgm	filtered phrase table (no cleaning)
+ep+wiki+cc-clean.newstest2016.en.fi.sgm		filtered clean phrase table
+constrained.newstest2016.en.fi.sgm		unfiltered cleaned phrase table
+
+unconstrained.newstest2016.en.fi.sgm		OPUS data, large LM, unfiltered
