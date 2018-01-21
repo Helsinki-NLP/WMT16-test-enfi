@@ -1,0 +1,19 @@
+ï»¿Aivosoluja voidaan ohjata Ă¤Ă¤niaalloilla sonogenetiikan avulla
+Videolla nĂ¤ytetĂ¤Ă¤n, kuinka sukkulamato vaihtaa suuntaansa, kun niihin kohdistetaan ultraĂ¤Ă¤ntĂ¤.
+Tutkijat ovat kasvattaneet matoja, joiden hermojĂ¤rjestelmĂ¤Ă¤ on muunneltu geneettisesti. NĂ¤in matoja voidaan ohjata ultraĂ¤Ă¤nellĂ¤.
+Pienet sukkulamadot vaihtavat suuntaansa, kun niihin kohdistetaan ultraĂ¤Ă¤ntĂ¤, jonka taajuus on ihmisen korvan kuuloalueen ylĂ¤puolella.
+Ă„Ă¤niaallot aktivoivat liikehermosoluja, jotka on geneettisesti muunneltu siten, ettĂ¤ niissĂ¤ on kuljetuskalvo, joka reagoi ultraĂ¤Ă¤neen.
+LisĂ¤Ă¤ aiheesta: Tutkijat seuraavat aivojen aktiivisuutta valon avulla
+Tutkijoiden mukaan madoilla kyettiin osoittamaan uuden sonogeneettisen menetelmĂ¤n (dubbed sonogenetics) teho. MenetelmĂ¤ssĂ¤ ultraĂ¤Ă¤ntĂ¤ hyĂ¶dynnetĂ¤Ă¤n aivo-, sydĂ¤n- ja lihassolujen aktivointiin kehon ulkopuolelta tulevalla Ă¤rsykkeellĂ¤.
+Kalifornian La Jollassa sijaitsevan Salk Instuten tutkija Sreekanth Chalasani kertoi Guardianille, ettĂ¤ menetelmĂ¤llĂ¤ voidaan jonain pĂ¤ivĂ¤nĂ¤ korvata syvĂ¤aivostimulaatio (DBS). DBS-hoito on Parkinsonin taudin oireiden hoidossa kĂ¤ytettĂ¤vĂ¤ invasiivinen menetelmĂ¤, jossa aivoja stimuloidaan sĂ¤hkĂ¶impulsseilla.
+Sukkulamadot eivĂ¤t normaalisti reagoi ultraĂ¤Ă¤neen. Chalasani huomasi, ettĂ¤ madot kuitenkin alkavat reagoida, kun ne asetetaan nesteeseen, jossa on mikroskooppisen pieniĂ¤ kuplia.
+Chalasanin mukaan kuplat voimistavat ultraĂ¤Ă¤niaaltoja, jotka etenevĂ¤t matojen sisĂ¤Ă¤n.
+Vahvistuneet ultraĂ¤Ă¤niaallot vaikuttavat TRP4-ionikanaviin, joita on osassa matojen solukalvoista.
+Nature Communications -lehdessĂ¤ julkaistun artikkelin mukaan Ă¤Ă¤niaallot saavat nĂ¤mĂ¤ ionikanavat aukeamaan ja aktivoimaan solut, joihin ne ovat kiinnittyneinĂ¤.
+Voidakseen ohjata sukkulamatoja ultraĂ¤Ă¤nellĂ¤ Chalasani muunteli matoja geneettisesti siten, ettĂ¤ osaan niiden liikettĂ¤ ohjaavista hermoista ilmestyi TRP4-ionikanavia.
+Kun muunneltuihin matoihin ohjattiin ultraĂ¤Ă¤ntĂ¤, mikrokuplat vahvistivat Ă¤Ă¤niaaltoja ja siirtyivĂ¤t matoihin, jolloin hermosolussa lĂ¤hti liikkeelle signaali.
+MenetelmĂ¤ muistuttaa hieman optogenetiikkaa, joka on mullistava tyĂ¶kalu, jonka avulla tutkijat voivat aktivoida hermosoluja valon avulla.
+Chalasanin mukaan sonogenetiikalla on kuitenkin optogenetiikkaan verrattuna tiettyjĂ¤ etuja.
+Valo on tutkimuksen kohteena oleviin aivoihin ohjataan valoa valokuitujen avulla. Matalataajuuksiset ultraĂ¤Ă¤net sen sijaan lĂ¤pĂ¤isevĂ¤t solun helposti, joten ultraĂ¤Ă¤ntĂ¤ voidaan ohjata aivoihin kallon lĂ¤pi.
+"Uskomme, ettĂ¤ geenihoidon ja virushoidon avulla ihmisen hermosoluja voidaan hetkellisesti altistaa ultraĂ¤Ă¤nisignaaleille kliinisessĂ¤ ympĂ¤ristĂ¶ssĂ¤ tietyissĂ¤ neurologisissa hoidoissa", Chalasani totesi.
+Tutkijan mukaan menetelmĂ¤Ă¤ voitaisiin hyĂ¶dyntĂ¤Ă¤ myĂ¶s lihassoluissa ja insuliinia tuottavissa soluissa.

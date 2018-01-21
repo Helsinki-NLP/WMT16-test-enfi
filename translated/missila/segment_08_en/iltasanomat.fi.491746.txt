@@ -1,0 +1,13 @@
+Soon 150 million vehicles will be connected to the Internet: Preparations begin for mitigating cyberattacks against connected vehicles.
+The Automotive Security Review Board (ASRB) will also encourage technological progression and innovation, the announcement by Intel said.
+The board will encompass top security industry talent across the globe.
+The ASRB researchers will perform ongoing security tests and audits intended to codify best practices and design recommendations for advanced cybersecurity solutions and products.
+At the same time, Intel also published the first version of its automotive cybersecurity best practices white paper.
+The company will continue to update the paper based on ASRB findings.
+International ICT field research and advisory firm Gartner predicts that by 2020, the number of connected passenger vehicles on the road in use will be about 150 million.
+Few things are more personal than our safety while on the road.
+According to same prediction, 60% to 75% of these vehicles will be capable of consuming, creating and sharing Web-based data.
+We can, and must, raise the bar against cyberattacks in automobiles, said Chris Young, general manager of Intel Security.
+With the help of the ASRB, Intel can establish security best practices and encourage the view that cybersecurity is an essential ingredient in the design of every connected car.
+Few things are more personal than our safety while on the road, making the ASRB the right idea at the right time.
+Intel is one of the worldâ€™s leading computer science innovators.

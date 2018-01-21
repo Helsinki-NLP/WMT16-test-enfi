@@ -1,0 +1,11 @@
+ï»¿iOSÂ 9: Apple julkaisee uuden kĂ¤yttĂ¶jĂ¤rjestelmĂ¤n â€“ nĂ¤in asennat sen iPhoneen
+Uuden kĂ¤yttĂ¶jĂ¤rjestelmĂ¤n voi asentaa valitsemalla ensin Asetukset, Yleiset ja OhjelmistopĂ¤ivitys.
+Jos puhelin on valmis pĂ¤ivitystĂ¤ varten, se kehottaa lataaman ja asentamaan uuden kĂ¤yttĂ¶jĂ¤rjestelmĂ¤n.
+Osalla kĂ¤yttĂ¤jistĂ¤ on esiintynyt ongelmia asennuksen jĂ¤lkeen: Puhelimeen on ilmestynyt virheilmoitus "ohjelmiston pĂ¤ivitys epĂ¤onnistunut".
+Virheilmoitustapauksissa kĂ¤yttĂ¤jiĂ¤ kehotetaan odottamaan ruuhkan purkautumista tai yrittĂ¤mĂ¤Ă¤n pĂ¤ivitystĂ¤ iTunesin kautta.
+Puhelin opastaa latausprosessissa.
+PĂ¤ivitys voi edellyttĂ¤Ă¤ sovellusten poistoa, jotta tilaa vapautuu. Apple on kuitenkin tehnyt pĂ¤ivityksestĂ¤ kompaktimman. LisĂ¤ksi kĂ¤ytettĂ¤vissĂ¤ on tyĂ¶kalun, joka ehdottaa poistettavaksi sovelluksia ja asentaa ne pĂ¤ivityksen jĂ¤lkeen uudelleen.
+Ohjelmistoa pĂ¤ivittĂ¤essĂ¤ kannattaa varmistaa, ettĂ¤ puhelimessa on latausta ja ettĂ¤ laturi on saatavilla, jotta virta ei lopu kesken latauksen.
+Jos lataustaso on liian alhainen, puhelin ei salli pĂ¤ivityksen aloittamista. Jos puhelimen akku tyhjenee kesken pĂ¤ivityksen, pĂ¤ivitys voi rikkoontua.
+Lue lisĂ¤Ă¤: iOSÂ 9 julkaistaan ajallaan WatchOS:n viivĂ¤styksestĂ¤ huolimatta iOSÂ 9 -arvostelu: vĂ¤hiten jĂ¤nnittĂ¤vĂ¤ mutta paras pĂ¤ivitys iOSÂ 9: ole valmiina iOSÂ 9-kĂ¤yttĂ¶jĂ¤rjestelmĂ¤Ă¤ varten
+Kannattaa myĂ¶s valmistautua huolella ennen pĂ¤ivityspaketin lataamista, jotta voit vĂ¤lttyĂ¤ pĂ¤ivityksessĂ¤ esiintyviltĂ¤ ongelmilta â€“ ja suojata jĂ¤rjestelmĂ¤n niiden varalta. iOSÂ 9 tuo mukanaan uusia ominaisuuksia, kuten entistĂ¤ Ă¤lykkĂ¤Ă¤mmĂ¤n henkilĂ¶kohtaisen avustajan ja runsaasti uusia ominaisuuksia iPadille sekĂ¤ pieniĂ¤ parannuksia, jotka nopeuttavat ja parantavat kĂ¤yttĂ¶jĂ¤rjestelmĂ¤n toimintaa.

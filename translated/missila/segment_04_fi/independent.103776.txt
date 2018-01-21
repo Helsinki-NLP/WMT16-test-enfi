@@ -1,0 +1,11 @@
+iOS 9: miten saat uuden käyttöjärjestelmän iPhoneen Applen päivitysjulkaisun jälkeen
+Uutta käyttöjärjestelmää voi pyytää menemällä Asetukset-sovellukseen, napsauttamalla ”Yleiset” ja sen jälkeen valitsemalla ”Ohjelmistopäivitys”.
+Jos päivitys on valmiina, puhelin antaa vaihtoehdon ladata ja sen jälkeen asentaa sen.
+Joillakuilla on ollut ongelmia tämän asennuksen jälkeen, kun näytölle on ilmestynyt ”Ohjelmistopäivitys epäonnistui” -virheilmoitus.
+Tämän ohittamiseksi suositellaan, että käyttäjät joko odottavat pahimman ruuhkan ohimenoa tai yrittävät päivitystä iTunes-ohjelman kautta.
+Puhelin opastaa käyttäjää loppuprosessissa.
+Tähän voi kuulua sovellusten poistaminen tilan saamiseksi, mutta Apple on vähentänyt tämän mahdollisuutta pienentämällä päivityksen kokoa ja myös helpottanut prosessia uudella työkalulla, joka ehdottaa poistettavia sovelluksia ja sitten asentaa ne uudelleen päivityksen valmistuessa.
+Kannattaa varmistaa, että puhelin on ladattu tai laturin lähellä päivityksen aikana, ettei akku lopu kesken.
+Jos lataustaso on liian alhainen, Apple ei anna päivityksen edetä, sillä jos akku loppuu kesken, se voi johtaa päivityksen rikkumiseen.
+Lue lisää: iOS 9 -julkaisu yhä hyvällä mallilla, vaikka WatchOS myöhästyy iOS 9 arvio: toistaiseksi paras ja vähiten kiinnostava päivitys iOS 9: näin valmistaudut uuteen iPhone-käyttöjärjestelmään
+Kannattaa myös varmistaa, että olet käynyt läpi listamme kaikista niistä asioista, jotka pitää tehdä ennen latausta, jotta asiat eivät menisi pieleen, ja miten voit suojautua siltä, jos ne kuitenkin menevät. iOS 9 tuo mukanaan uusia ominaisuuksia, kuten paljon älykkäämmän henkilökohtaisen avustajan ja valtavasti uusia tuottavuusominaisuuksia iPadille, sekä parannuksia, jotka nopeuttavat ja korjaavat käyttöjärjestelmää.

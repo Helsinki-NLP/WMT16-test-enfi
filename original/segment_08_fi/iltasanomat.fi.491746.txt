@@ -1,0 +1,13 @@
+Pian 150 miljoonaa ajoneuvoa on kytketty verkkoon: Autojen tietoturvaa vastaan tehtĂ¤viin hyĂ¶kkĂ¤yksiin alettiin varustautua
+Automotive Security Review Board (ASRB) -lautakunta tukee lisĂ¤ksi alan teknologista kehitystĂ¤ ja innovaatioita, Intelin julkaisemassa tiedotteessa kerrotaan.
+Lautakunta koostuu turvallisuusalan huippuasiantuntijoista eri puolilta maailmaa.
+ASRB:n tutkijat tulevat tekemĂ¤Ă¤n jatkuvia turvallisuustestejĂ¤ ja -tarkastuksia, joiden tavoitteena on standardoida parhaat kĂ¤ytĂ¤nnĂ¶t ja suunnittelusuositukset edistyksellisille kyberturvallisuusratkaisuille ja -tuotteille.
+Samalla Intel julkisti ensimmĂ¤isen version kyberturvallisuuden parhaista kĂ¤ytĂ¤nnĂ¶istĂ¤.
+YhtiĂ¶ tulee jatkossa pĂ¤ivittĂ¤mĂ¤Ă¤n raporttia ASRB:n tutkimustulosten pohjalta.
+KansainvĂ¤linen ICT-alan tutkimus- ja konsultointiyritys Gartner arvioi, ettĂ¤ vuoteen 2020 mennessĂ¤ noin 150 miljoonaa liikenteessĂ¤ olevaa ajoneuvoa on kytketty verkkoon.
+Harvat asiat ovat henkilĂ¶kohtaisempia kuin oma turvallisuutemme tien pĂ¤Ă¤llĂ¤.
+Saman arvion mukaan 60-75 prosenttia nĂ¤istĂ¤ ajoneuvoista pystyy kuluttamaan, luomaan ja jakamaan verkkopohjaista dataa.
+Me voimme ja meidĂ¤n tĂ¤ytyy parantaa autojen kyberturvallisuutta, Intel Securityn johtaja Chris Young sanoo.
+ASRB:n avulla Intel voi vakiinnuttaa turvallisuuteen liittyvĂ¤t parhaat kĂ¤ytĂ¤nnĂ¶t ja tukea nĂ¤kemystĂ¤, jonka mukaan kyberturvallisuus on merkittĂ¤vĂ¤ ainesosa jokaisen verkkoon kytketyn auton suunnittelussa.
+Harvat asiat ovat henkilĂ¶kohtaisempia kuin oma turvallisuutemme tien pĂ¤Ă¤llĂ¤, mikĂ¤ tekee ASRB-lautakunnasta oikean idean oikeaan aikaan.
+Intel on yksi maailman johtavista innovaattoreista tietojenkĂ¤sittelyssĂ¤.

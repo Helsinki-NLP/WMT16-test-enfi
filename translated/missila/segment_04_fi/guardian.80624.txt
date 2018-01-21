@@ -1,0 +1,19 @@
+”Äänigenetiikka” mahdollistaa aivosolujen hallinnan ääniaaltojen avulla
+Videolla näytetään, kuinka sukkulamadot vaihtavat suuntaa heti, kun ääni-impulssi osuu niihin.
+Tutkijat ovat kasvattaneet matoja, joilla on geneettisesti muokatut hermojärjestelmät, jotta niitä voidaan ohjailla ääniaaltopurkauksilla.
+Pikkuruiset sukkulamadot vaihtavat suuntaa heti, kun niihin osuu ääni-impulssi, joka on liian korkea ihmiskorvin kuultavaksi.
+Impulssit toimivat kytkemällä päälle geneettisesti muokatut liikehermosolut, joissa on ultraääniaaltoihin reagoivat kalvokanavat.
+Aiheeseen liittyvää: Tutkijat lukevat ja kirjoittavat aivoaktiivisuutta valolla
+Tutkijat sanoivat, että madot osoittavat uuden, äänigenetiikaksi nimetyn, menetelmän toimivuuden. Siinä ultraääntä voidaan käyttää aktivoimaan tiettyjä aivo-, sydän- ja lihassoluja kehon ulkopuolelta käsin.
+Kalifornian La Jollassa sijaitsevan Salk Instituten tutkija Sreekanth Chalasani kertoi The Guardianille, että menetelmä voi jonain päivänä korvata syväaivostimulaation. Se on invasiivinen toimenpide, jossa ihmisten aivoihin johdetaan sähköimpulsseja Parkinsonin taudin hoitamiseksi.
+Sukkulamadot eivät normaalisti reagoi ultraääneen, mutta Chalasani havaitsi, että kun niitä ympäröi neste, jossa on mikroskooppisen pieniä kuplia, tilanne muuttui.
+Hän huomasi, että kuplat vahvistivat ultraääniaaltoja, jotka sitten kulkevat matojen sisään.
+Vahvistetut ultraääniaallot vaikuttavat TRP-4-ionikanaviin, rakenteisiin, joita on joidenkin matojen solukalvoissa.
+Ääniaallot saavat nämä ionikanavat avautumaan ja aktivoimaan niihin kiinnittyneet solut, kerrotaan Nature Communications -lehdessä julkaistussa raportissa.
+Valmistaakseen ultraäänellä ohjattavia sukkulamatoja, Chalasani muokkasi matoja geneettisesti niin, että osassa niiden liikehermosoluja on TRP-4-ionikanavat.
+Kun Chalasani käytti ultraääntä muokattuihin matoihin, mikrokuplat vahvistivat ääniaaltoja ja välittivät ne matoihin, joissa ne kytkevät päälle muokatut liikehermosolut.
+Menetelmässä on joitain samoja piirteitä kuin optogenetiikassa, uraauurtavassa työkalussa, joka antaa tiedemiehille mahdollisuuden kytkeä hermosoluja päälle ja pois päältä valoimpulsseja käyttämällä.
+Chalasani kuitenkin sanoo, että sonogenetiikan käytössä voi olla joitain etuja optogenetiikkaan verrattuna.
+Toisin kuin valo, joka täytyy lähettää optista kuitua pitkin haluttuun kohtaan aivojen sisällä, matalataajuuksiset ultraääniaallot voivat kulkea kudoksen läpi esteettömästi, joten niitä voidaan lähettää aivoihin kallon päältä.
+”Uskomme, että geeniterapiaa ja terapeuttista virusta käyttämällä voi olla mahdollista saada kohteena olevat ihmisen hermosolut hetkellisesti reagoimaan ultraäänisignaaliin tietyissä neurologisissa hoidoissa kliinisessä ympäristössä”, Chalasani sanoi.
+Muut sovelluskohteet voisivat keskittyä lihassoluihin ja insuliinia tuottaviin soluihin, hän lisäsi.
